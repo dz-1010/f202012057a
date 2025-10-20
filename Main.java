@@ -4,6 +4,7 @@ public class Main {
     System.out.println("이다정");
     World.run();
     World.run2();
+    Hello.run();
   }
 
 }
